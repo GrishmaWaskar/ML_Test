@@ -46,4 +46,10 @@
 - Apply Model to Test Set: Utilize the trained model to make predictions on the test dataset (test.csv), which contains data for the next 6 months
 
 # Conclusion
-- The project has successfully developed a predictive model for bike rental demand, incorporating both historical usage patterns and weather-related features. The iterative nature of the methodology allowed for continuous improvement, resulting in a model capable of making accurate predictions on unseen data. The insights gained from the project not only contribute to the optimization of bike-sharing systems but also offer valuable knowledge on the factors influencing urban mobility patterns. 
+- The project has successfully developed a predictive model for bike rental demand, incorporating both historical usage patterns and weather-related features. The iterative nature of the methodology allowed for continuous improvement, resulting in a model capable of making accurate predictions on unseen data. The insights gained from the project not only contribute to the optimization of bike-sharing systems but also offer valuable knowledge on the factors influencing urban mobility patterns.
+
+# Result 
+- Predictions on Test Data:[78.83981404, 70.13099379, 38.34666666, ..., 94.25959441,
+       98.1799875 , 49.36421008])
+- RMSLE on validation set: 0.3408329885090962
+  
